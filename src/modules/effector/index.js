@@ -31,7 +31,7 @@ export const EffectorModule = () => {
   return (
     <Row>
       <Col>
-        <Typography.Title level={3}>RecoilModule</Typography.Title>
+        <Typography.Title level={3}>EffectorModule</Typography.Title>
       </Col>
       <Col>
         <Typography.Text>Recoil count = {recoilCount}</Typography.Text>
